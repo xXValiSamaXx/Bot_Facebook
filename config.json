@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "username": "carlosriverappp11@gmail.com",
+      "password": "Asdfgh78"
+    }
+  ],
+  "browser_settings": {
+    "headless": false,
+    "wait_time": 10
+  },
+  "comments_file": "comments.json"
+}

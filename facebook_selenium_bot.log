@@ -1,0 +1,26 @@
+2025-03-18 12:26:05,887 - FacebookCLI - INFO - Bot configurado para interactuar realmente con Facebook usando Selenium
+2025-03-18 12:26:05,904 - FacebookCLI - INFO - Interactuando con la publicación: https://www.facebook.com/share/p/191sYjAwrV/
+2025-03-18 12:26:05,904 - FacebookCLI - INFO - Usando FacebookBotSelenium para interactuar con Facebook
+2025-03-18 12:26:05,910 - WDM - INFO - ====== WebDriver manager ======
+2025-03-18 12:26:07,923 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 12:26:09,933 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 12:26:10,748 - WDM - INFO - There is no [win64] chromedriver "134.0.6998.88" for browser google-chrome "134.0.6998" in cache
+2025-03-18 12:26:10,748 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 12:26:13,584 - WDM - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-18 12:26:13,598 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-18 12:26:13,598 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/win32/chromedriver-win32.zip
+2025-03-18 12:26:13,986 - WDM - INFO - Driver downloading response is 200
+2025-03-18 12:27:45,571 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 12:27:49,040 - WDM - INFO - Driver has been saved in cache [C:\Users\avile\.wdm\drivers\chromedriver\win64\134.0.6998.88]
+2025-03-18 12:27:50,950 - FacebookSeleniumBot - INFO - Iniciando sesión en Facebook como carlosriverappp11@gmail.com
+2025-03-18 12:28:03,091 - FacebookSeleniumBot - INFO - No se encontró diálogo de cookies o ya fue aceptado
+2025-03-18 12:28:10,050 - FacebookSeleniumBot - INFO - Inicio de sesión exitoso
+2025-03-18 12:28:16,896 - FacebookSeleniumBot - INFO - Dando like a la publicación: https://www.facebook.com/share/p/191sYjAwrV/
+2025-03-18 12:28:56,079 - FacebookSeleniumBot - WARNING - No se pudo encontrar el botón de like con los selectores conocidos
+2025-03-18 12:28:56,125 - FacebookSeleniumBot - INFO - Botones encontrados: 46
+2025-03-18 12:28:56,272 - FacebookSeleniumBot - INFO - Intentado clic en botón con aria-label: Me gusta: 500 personas
+2025-03-18 12:28:58,299 - FacebookSeleniumBot - INFO - Comentando en la publicación: https://www.facebook.com/share/p/191sYjAwrV/
+2025-03-18 12:28:58,300 - FacebookSeleniumBot - INFO - Comentario: Totalmente de acuerdo
+2025-03-18 12:29:57,232 - FacebookSeleniumBot - ERROR - No se pudo encontrar el área de comentario
+2025-03-18 12:29:59,766 - FacebookSeleniumBot - INFO - Navegador cerrado correctamente
+2025-03-18 12:29:59,767 - FacebookCLI - ERROR - FALLIDO: La interacción no se completó correctamente

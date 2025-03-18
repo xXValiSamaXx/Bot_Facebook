@@ -1,0 +1,3 @@
+{"timestamp": "2025-03-18T12:09:54.682764", "platform": "FacebookBot", "username": "carlosriverappp11@gmail.com", "action": "reaction", "post_url": "https://www.facebook.com/share/p/191sYjAwrV/", "status": "success", "details": null}
+{"timestamp": "2025-03-18T12:09:54.682764", "platform": "FacebookBot", "username": "carlosriverappp11@gmail.com", "action": "comment", "post_url": "https://www.facebook.com/share/p/191sYjAwrV/", "status": "success", "details": {"comment": "Muy interesante contenido"}}
+{"timestamp": "2025-03-18T12:28:58.278476", "platform": "FacebookBotSelenium", "username": "carlosriverappp11@gmail.com", "action": "like", "post_url": "https://www.facebook.com/share/p/191sYjAwrV/", "status": "success", "details": null}

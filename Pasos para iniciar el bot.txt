@@ -1,0 +1,16 @@
+-Crear un entorno virtual
+python -m venv fb_bot_env
+
+-Inicializar el env
+fb_bot_env\Scripts\activate
+
+
+-Cómo usar el bot:
+Para una publicación individual:
+bashCopiarpython facebook_cli.py interact --url "https://www.facebook.com/ejemplo/posts/123456789"
+
+-Para múltiples publicaciones:
+bashCopiarpython facebook_cli.py batch --file urls.txt --delay 60
+
+- Desactivar el env
+deactivate
